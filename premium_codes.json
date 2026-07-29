@@ -1,0 +1,34 @@
+{
+  "codes": [
+    {
+      "id": "PROXY-GEM-D91C5-F7BB-695A-4C7F-8ED4",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null
+    },
+    {
+      "id": "PROXY-GEM-A2B9C-3D4E5-F6G7H-8I9J0",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null
+    },
+    {
+      "id": "PROXY-GEM-X1Y2Z-3A4B5-C6D7E-8F9G0",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null
+    },
+    {
+      "id": "PROXY-GEM-TRIAL-7DAYS-ABCDE-12345",
+      "duration": "7_days",
+      "used": false,
+      "activated_at": null
+    },
+    {
+      "id": "PROXY-GEM-USED-EXAMPLE-XXXXX-99999",
+      "duration": "1_month",
+      "used": true,
+      "activated_at": "2026-07-20T14:30:00Z"
+    }
+  ]
+}
