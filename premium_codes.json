@@ -25,12 +25,6 @@
       "activated_at": null
     },
     {
-      "id": "PROXY-GEM-USED-EXAMPLE-XXXXX-99999",
-      "duration": "1_month",
-      "used": true,
-      "activated_at": "2026-07-20T14:30:00Z"
-    },
-    {
       "id": "PROXY-GEM-8F7E6-D5C4B-3A2F1-0E9D8",
       "duration": "1_month",
       "used": false,
