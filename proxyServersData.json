@@ -1,4 +1,5 @@
-[
+{
+    "proxyServersData" : [
     { 
         id: 'poland',
         name: 'Poland', 
