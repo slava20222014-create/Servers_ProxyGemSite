@@ -12,7 +12,7 @@
     {
       "id": "PROXY-GEM-D91C5-F7BB-695A-4C7F-8ED4",
       "duration": "1_month",
-      "used": true,
+      "used": false,
       "activated_at": null,
       "max_activations": 1,
       "used_count": 0,
