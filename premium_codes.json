@@ -4,11 +4,12 @@
       "id": "PROXYGEM",
       "duration": "7_days",
       "used": false,
-      "activated_at": "2026-08-05T19:22:20.476Z",
+      "activated_at": "2026-08-05T19:25:36.977Z",
       "max_activations": 999999,
-      "used_count": 1,
+      "used_count": 2,
       "used_devices": [
-        "DEV-005NB0KK"
+        "DEV-005NB0KK",
+        "DEV-00L4F74W"
       ]
     },
     {
