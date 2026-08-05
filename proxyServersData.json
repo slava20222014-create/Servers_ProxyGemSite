@@ -1,0 +1,58 @@
+[
+    { 
+        id: 'poland',
+        name: 'Poland', 
+        desc: 'Warsaw', 
+        flag: 'data/images/Poland.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@pl.staxel.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=confluence-pl.staxel.click&fp=firefox&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo&sid=9a8bf81b6231ec8f#%F0%9F%87%B5%F0%9F%87%B1%20%5BStaxel%20VPN%5D%20Poland'
+    },
+    { 
+        id: 'finland',
+        name: 'Finland', 
+        desc: 'Helsinki', 
+        flag: 'data/images/Finland.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@fi.staxel.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=confluence-fi.staxel.click&fp=firefox&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo&sid=9a8bf81b6231ec8f#%F0%9F%87%AB%F0%9F%87%AE%20%5BStaxel%20VPN%5D%20Finland'
+    },
+    { 
+        id: 'netherlands',
+        name: 'Netherlands', 
+        desc: 'Amsterdam', 
+        flag: 'data/images/Netherlands.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@nl.staxel.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=confluence-nl.staxel.click&fp=randomized&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo#%F0%9F%87%B3%F0%9F%87%B1%20%5BStaxel%20VPN%5D%20Netherlands'
+    },
+    { 
+        id: 'usa',
+        name: 'United States', 
+        desc: 'Washington', 
+        flag: 'data/images/US.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@us.staxel.click:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=confluence-us.staxel.click&fp=random&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo&sid=9a8bf81b6231ec8f&type=tcp&headerType=none&spx=%2F#USA%20Staxel%20VPN'
+    },
+    { 
+        id: 'sweden',
+        name: 'Sweden', 
+        desc: 'Stockholm', 
+        flag: 'data/images/Sweden.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@se.staxel.click:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.staxel.click&fp=randomized&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo&sid=9a8bf81b6231ec8f&type=tcp&headerType=none&spx=%2F#Sweden%20Staxel%20VPN'
+    },
+    { 
+        id: 'turkey',
+        name: 'Turkey', 
+        desc: 'Istanbul', 
+        flag: 'data/images/Turkey.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@tr.staxel.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=confluence-tr.staxel.click&fp=randomized&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo&sid=9a8bf81b6231ec8f#%F0%9F%87%B9%F0%9F%87%B7%20%5BStaxel%20VPN%5D%20Turkey'
+    },
+    { 
+        id: 'kazakhstan',
+        name: 'Kazakhstan', 
+        desc: 'Astana', 
+        flag: 'data/images/Kazakhstan.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@kz.staxel.click:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz.staxel.click&fp=random&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo&type=tcp&headerType=none&spx=%2F#Kazakhstan%20Staxel%20VPN'
+    },
+    { 
+        id: 'russia',
+        name: 'Russia / YouTube', 
+        desc: 'Moscow', 
+        flag: 'data/images/Russia.png', 
+        link: 'vless://e8ed02d5-fc08-4559-866d-8c05c18f33c1@ru.staxel.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=confluence-ru.staxel.click&fp=firefox&pbk=7RoAmB1Y-nck4vhHwkZxi0G7NXsVoegpSJNa8ZqQygo#%F0%9F%87%B7%F0%9F%87%BA%20%5BStaxel%20VPN%5D%20Russia%20%2F%20Youtube'
+    }
+];
