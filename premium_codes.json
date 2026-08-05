@@ -67,11 +67,13 @@
     {
       "id": "PROXY-GEM-6K5L4-M3N2O-1P0Q9-R8S7T",
       "duration": "forever",
-      "used": false,
-      "activated_at": null,
+      "used": true,
+      "activated_at": "2026-08-05T19:45:49.998Z",
       "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
+      "used_count": 1,
+      "used_devices": [
+        "DEV-005NB0KK"
+      ]
     },
     {
       "id": "PROXY-GEM-5U4V3-W2X1Y-0Z9A8-B7C6D",
