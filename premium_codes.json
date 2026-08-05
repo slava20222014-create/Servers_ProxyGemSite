@@ -13,18 +13,151 @@
       ]
     },
     {
-      "id": "PROXY-GEM-D91C5-F7BB-695A-4C7F-8ED4",
+      "id": "PROXY-GEM-A1B2C-3D4E5-F6G7H-8I9J0",
       "duration": "1_month",
-      "used": true,
-      "activated_at": "2026-08-05T19:36:23.052Z",
+      "used": false,
+      "activated_at": null,
       "max_activations": 1,
-      "used_count": 1,
-      "used_devices": [
-        "DEV-005NB0KK"
-      ]
+      "used_count": 0,
+      "used_devices": []
     },
     {
-      "id": "PROXY-GEM-A2B9C-3D4E5-F6G7H-8I9J0",
+      "id": "PROXY-GEM-K1L2M-3N4O5-P6Q7R-8S9T0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-U1V2W-3X4Y5-Z6A7B-8C9D0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-E1F2G-3H4I5-J6K7L-8M9N0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-O1P2Q-3R4S5-T6U7V-8W9X0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-Y1Z2A-3B4C5-D6E7F-8G9H0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-I1J2K-3L4M5-N6O7P-8Q9R0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-S1T2U-3V4W5-X6Y7Z-8A9B0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-C1D2E-3F4G5-H6I7J-8K9L0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-M1N2O-3P4Q5-R6S7T-8U9V0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-W1X2Y-3Z4A5-B6C7D-8E9F0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-G1H2I-3J4K5-L6M7N-8O9P0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-Q1R2S-3T4U5-V6W7X-8Y9Z0",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-A4B5C-6D7E8-F9G0H-1I2J3",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-K4L5M-6N7O8-P9Q0R-1S2T3",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-U4V5W-6X7Y8-Z9A0B-1C2D3",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-E4F5G-6H7I8-J9K0L-1M2N3",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
@@ -33,31 +166,7 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-X1Y2Z-3A4B5-C6D7E-8F9G0",
-      "duration": "forever",
-      "used": true,
-      "activated_at": "2026-08-05T19:41:17.962Z",
-      "max_activations": 1,
-      "used_count": 2,
-      "used_devices": [
-        "DEV-00L4F74W",
-        "DEV-005NB0KK"
-      ]
-    },
-    {
-      "id": "PROXY-GEM-8F7E6-D5C4B-3A2F1-0E9D8",
-      "duration": "1_month",
-      "used": true,
-      "activated_at": "2026-08-05T19:48:29.001Z",
-      "max_activations": 1,
-      "used_count": 2,
-      "used_devices": [
-        "DEV-005NB0KK",
-        "DEV-00L4F74W"
-      ]
-    },
-    {
-      "id": "PROXY-GEM-7C6B5-A4D3E-2F1G0-H9I8J",
+      "id": "PROXY-GEM-O4P5Q-6R7S8-T9U0V-1W2X3",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
@@ -66,28 +175,7 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-6K5L4-M3N2O-1P0Q9-R8S7T",
-      "duration": "forever",
-      "used": true,
-      "activated_at": "2026-08-05T19:48:21.016Z",
-      "max_activations": 1,
-      "used_count": 2,
-      "used_devices": [
-        "DEV-005NB0KK",
-        "DEV-00L4F74W"
-      ]
-    },
-    {
-      "id": "PROXY-GEM-5U4V3-W2X1Y-0Z9A8-B7C6D",
-      "duration": "1_month",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-4E3F2-G1H0I-9J8K7-L6M5N",
+      "id": "PROXY-GEM-Y4Z5A-6B7C8-D9E0F-1G2H3",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
@@ -96,27 +184,7 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-3O2P1-Q0R9S-8T7U6-V5W4X",
-      "duration": "forever",
-      "used": true,
-      "activated_at": "2026-08-05T19:54:57.060Z",
-      "max_activations": 1,
-      "used_count": 1,
-      "used_devices": [
-        "DEV-005NB0KK"
-      ]
-    },
-    {
-      "id": "PROXY-GEM-2Y1Z0-A9B8C-7D6E5-F4G3H",
-      "duration": "1_month",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-1I2J3-K4L5M-6N7O8-P9Q0R",
+      "id": "PROXY-GEM-I4J5K-6L7M8-N9O0P-1Q2R3",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
@@ -125,25 +193,7 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-0S9T8-U7V6W-5X4Y3-Z2A1B",
-      "duration": "forever",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-C3D4E-5F6G7-H8I9J-0K1L2",
-      "duration": "1_month",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-M3N4O-5P6Q7-R8S9T-0U1V2",
+      "id": "PROXY-GEM-S4T5U-6V7W8-X9Y0Z-1A2B3",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
@@ -152,25 +202,7 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-W3X4Y-5Z6A7-B8C9D-0E1F2",
-      "duration": "forever",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-G3H4I-5J6K7-L8M9N-0O1P2",
-      "duration": "1_month",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-Q3R4S-5T6U7-V8W9X-0Y1Z2",
+      "id": "PROXY-GEM-C4D5E-6F7G8-H9I0J-1K2L3",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
@@ -179,25 +211,7 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-A3B4C-5D6E7-F8G9H-0I1J2",
-      "duration": "forever",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-K3L4M-5N6O7-P8Q9R-0S1T2",
-      "duration": "1_month",
-      "used": false,
-      "activated_at": null,
-      "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
-    },
-    {
-      "id": "PROXY-GEM-U3V4W-5X6Y7-Z8A9B-0C1D2",
+      "id": "PROXY-GEM-M4N5O-6P7Q8-R9S0T-1U2V3",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
@@ -206,7 +220,52 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-E3F4G-5H6I7-J8K9L-0M1N2",
+      "id": "PROXY-GEM-W4X5Y-6Z7A8-B9C0D-1E2F3",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-G4H5I-6J7K8-L9M0N-1O2P3",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-Q4R5S-6T7U8-V9W0X-1Y2Z3",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-A7B8C-9D0E1-F2G3H-4I5J6",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-K7L8M-9N0O1-P2Q3R-4S5T6",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-U7V8W-9X0Y1-Z2A3B-4C5D6",
       "duration": "forever",
       "used": false,
       "activated_at": null,
@@ -215,7 +274,106 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-O3P4Q-5R6S7-T8U9V-0W1X2",
+      "id": "PROXY-GEM-E7F8G-9H0I1-J2K3L-4M5N6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-O7P8Q-9R0S1-T2U3V-4W5X6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-Y7Z8A-9B0C1-D2E3F-4G5H6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-I7J8K-9L0M1-N2O3P-4Q5R6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-S7T8U-9V0W1-X2Y3Z-4A5B6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-C7D8E-9F0G1-H2I3J-4K5L6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-M7N8O-9P0Q1-R2S3T-4U5V6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-W7X8Y-9Z0A1-B2C3D-4E5F6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-G7H8I-9J0K1-L2M3N-4O5P6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-Q7R8S-9T0U1-V2W3X-4Y5Z6",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-A0B1C-2D3E4-F5G6H-7I8J9",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-K0L1M-2N3O4-P5Q6R-7S8T9",
       "duration": "1_month",
       "used": false,
       "activated_at": null,
@@ -224,7 +382,79 @@
       "used_devices": []
     },
     {
-      "id": "PROXY-GEM-Y3Z4A-5B6C7-D8E9F-0G1H2",
+      "id": "PROXY-GEM-U0V1W-2X3Y4-Z5A6B-7C8D9",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-E0F1G-2H3I4-J5K6L-7M8N9",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-O0P1Q-2R3S4-T5U6V-7W8X9",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-Y0Z1A-2B3C4-D5E6F-7G8H9",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-I0J1K-2L3M4-N5O6P-7Q8R9",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-S0T1U-2V3W4-X5Y6Z-7A8B9",
+      "duration": "3_months",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-C0D1E-2F3G4-H5I6J-7K8L9",
+      "duration": "forever",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-M0N1O-2P3Q4-R5S6T-7U8V9",
+      "duration": "1_month",
+      "used": false,
+      "activated_at": null,
+      "max_activations": 1,
+      "used_count": 0,
+      "used_devices": []
+    },
+    {
+      "id": "PROXY-GEM-W0X1Y-2Z3A4-B5C6D-7E8F9",
       "duration": "3_months",
       "used": false,
       "activated_at": null,
