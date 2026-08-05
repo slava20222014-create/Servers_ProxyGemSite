@@ -6,10 +6,8 @@
       "used": true,
       "activated_at": "2026-08-05T18:20:17.802Z",
       "max_activations": 999999,
-      "used_count": 1,
-      "used_devices": [
-        "DEV-005NB0KK"
-      ]
+      "used_count": 0,
+      "used_devices": []
     },
     {
       "id": "PROXY-GEM-D91C5-F7BB-695A-4C7F-8ED4",
@@ -17,11 +15,8 @@
       "used": true,
       "activated_at": "2026-08-05T18:22:32.931Z",
       "max_activations": 1,
-      "used_count": 3,
-      "used_devices": [
-        "DEV-005NB0KK",
-        "DEV-00L4F74W"
-      ]
+      "used_count": 0,
+      "used_devices": []
     },
     {
       "id": "PROXY-GEM-A2B9C-3D4E5-F6G7H-8I9J0",
