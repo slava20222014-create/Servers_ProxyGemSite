@@ -13,7 +13,7 @@
       "id": "PROXY-GEM-D91C5-F7BB-695A-4C7F-8ED4",
       "duration": "1_month",
       "used": true,
-      "activated_at": "2026-08-05T18:22:32.931Z",
+      "activated_at": null,
       "max_activations": 1,
       "used_count": 0,
       "used_devices": []
