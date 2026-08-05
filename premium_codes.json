@@ -3,7 +3,7 @@
     {
       "id": "PROXYGEM",
       "duration": "7_days",
-      "used": true,
+      "used": false,
       "activated_at": null,
       "max_activations": 999999,
       "used_count": 0,
