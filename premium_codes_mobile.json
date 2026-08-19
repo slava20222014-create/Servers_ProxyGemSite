@@ -3,11 +3,13 @@
     {
       "id": "PROXY-GEM-MOBILE-A1B2C-3D4E5-F6G7H-8I9J0",
       "duration": "1_month",
-      "used": false,
-      "activated_at": null,
+      "used": true,
+      "activated_at": "2026-08-19T18:57:51.705Z",
       "max_activations": 1,
-      "used_count": 0,
-      "used_devices": []
+      "used_count": 1,
+      "used_devices": [
+        "DEV-00WYPQVW"
+      ]
     },
     {
       "id": "PROXY-GEM-MOBILE-K1L2M-3N4O5-P6Q7R-8S9T0",
